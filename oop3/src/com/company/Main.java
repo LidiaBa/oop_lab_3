@@ -34,6 +34,6 @@ public class Main{
         }
         System.out.println("Поиск:");
         SearchResults.ifPresent(Tovar::print);
-        System.out.println("----------------------");
+        System.out.println(".............");
     }
 }
